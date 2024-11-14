@@ -6,7 +6,7 @@ Le fichier ``main.py`` contient :
 
 - une fonction secondaire ``syr_plot()`` (NE PAS MODIFIER) qui permet de construire un graphique. Pour l'utiliser il faut installer [Plotly](https://plotly.com/python/) :
 
-    $ python -m pip install plotly
+    $ python -m pip install plotl
 
 - une fonction secondaire ``syracuse_l()``
   
